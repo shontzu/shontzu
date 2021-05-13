@@ -1,4 +1,4 @@
-![github activity](https://github.com/yuuchin/yuuchin/blob/main/img/github%20activity.JPG)
+![github activity](https://github.com/yuuchin/yuuchin/blob/main/img/Capture.JPG)
 
 
 <!-- 
