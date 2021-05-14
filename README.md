@@ -27,7 +27,7 @@
   </p>
   
   <h2>What will you need</h2>
-  ✅ internet connection ✅ laptop / desktop ✅ 30 minutes of time ✅ webcam and mic
+  ✅ internet connection &nbsp; ✅ laptop / desktop &nbsp; ✅ 30 minutes of time &nbsp; ✅ webcam &nbsp; ✅ mic
   
   <h2>Are you a hacker?</h2>
   <p align="justify">
