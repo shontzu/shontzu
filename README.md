@@ -23,7 +23,7 @@
   <h2>What should you expect as a Website Tester</h2>
 <p align="justify">
   you will need to get on a 30-minute online call where we will give you some task to perform on the portal. The tasks may be as such:<br>
-    Create an account | Log in | Create a dummy content | Interact with contents | Navigate through the website | etc! It's pretty simple, and you will be guided along the way :)
+    Create an account | Log in | Create a dummy content | Interact with contents | Navigate through the website | provide criticism | feedback | fill out an evaluation form | etc! It's pretty simple, and you will be guided along the way :)
   </p>
   
   <h2>Are you a hacker?</h2>
