@@ -23,6 +23,6 @@
   
   <h2>Are you a hacker?</h2>
   <p align="justify">
-  If you think you have the hacker mindset, I challenge you to join our <a href= "https://discord.gg/DNgheJRHFZ">hacker community</a> Discord channel where like-minded people continuously debate and learn from each other on various topic! See you there 😎👻
+  If you think you have the hacker mindset, I challenge you to join our <a href= "https://discord.gg/DNgheJRHFZ">hacker community</a> Discord channel where like-minded people continuously debate and learn from each other on various topic! Honestly, even if you are noobs, you'll benefit from this community, hehe 😏 See you there 😎👻
   </p>
   </span>
