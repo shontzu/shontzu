@@ -20,6 +20,12 @@
   SUMI is a rigorously tested and proven method of measuring software quality from the end user's point of view to gauge the relative idea of “usability” from a student's perspective. The advantages of e-learning systems are minimized if students do not use them, causing e-learning initiatives to often completely or partially fail despite their potential. Low performance and poor usability create unusable systems which are probably the single largest reason that they fail in actual use. 
   </p>
   
+  <h2>What should you expect as a Website Tester</h2>
+<p align="justify">
+  you will need to get on a 30-minute online call where we will give you some task to perform on the portal. The tasks may be as such:<br>
+    Create an account | Log in | Create a dummy content | Interact with contents | Navigate through the website | etc! It's pretty simple, and you will be guided along the way :)
+  </p>
+  
   <h2>Are you a hacker?</h2>
   <p align="justify">
   If you think you have the hacker mindset, I challenge you to join our <a href= "https://discord.gg/DNgheJRHFZ">hacker community</a> Discord channel where like-minded people continuously debate and learn from each other on various topic! Honestly, even if you are noobs, you'll benefit from this community, hehe 😏 See you there 😎👻
