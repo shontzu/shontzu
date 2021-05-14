@@ -7,7 +7,7 @@
   
   <img align="right" width="45%" src="https://github.com/yuuchin/yuuchin/blob/main/img/Web%20Tester%20needed%20(no%20logo).jpg">
   
-  <h2>Doing a case study research on e-portal usability to troubleshoot user-retention issue on <a href="https://pathforge.co/feed/">Pathforge</a></h2>
+  <h2>Case study research on e-portal usability to troubleshoot user-retention issue of <a href="https://pathforge.co/feed/">Pathforge</a></h2>
   <p align="justify">
   <a href="https://hackercollective.co/">The Hacker Collective (THC)</a> aims to disrupt overpriced education, to get all the self-learners together on a single platform so that everyone can collaborate on projects, meet like-minded people, network with other self-learners, with no geographical boundaries. This led to them to develop a social-educational portal called Pathforge. 
   </p>
@@ -25,6 +25,13 @@
   you will need to get on a 30-minute online call where we will give you some task to perform on the portal. The tasks may be as such:<br>
     Create an account | Log in | Create a dummy content | Interact with contents | Navigate through the website | provide criticism | feedback | fill out an evaluation form | etc! It's pretty simple, and you will be guided along the way :)
   </p>
+  
+  <h2>What will you need</h2>
+  <ol>
+  <li> internet connection </li>
+  <li> laptop / desktop <li>
+  <li> 30 minutes of free time </li>
+  </ol>
   
   <h2>Are you a hacker?</h2>
   <p align="justify">
