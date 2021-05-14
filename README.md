@@ -27,11 +27,7 @@
   </p>
   
   <h2>What will you need</h2>
-  <ol>
-  <li> internet connection </li>
-  <li> laptop / desktop <li>
-  <li> 30 minutes of free time </li>
-  </ol>
+  internet connection, laptop / desktop, 30 minutes of free time
   
   <h2>Are you a hacker?</h2>
   <p align="justify">
