@@ -2,7 +2,7 @@
 ![github activity](https://github.com/yuuchin/yuuchin/blob/main/img/Capture.JPG)
 
 <span align="center">
-  <h1> Web Tester needed. Schedule your appointment <br>
+  <h1> Web Tester needed. Schedule an appointment <br>
   👉🏼 <a href="https://calendly.com/yuuchin/30min">here</a> 👈🏼
   </h1>
   
@@ -27,7 +27,7 @@
     Create an account | Log in | Create a dummy content | Interact with contents | Navigate through the website | provide criticism | feedback | fill out an evaluation form | etc! It's pretty simple, and you will be guided along the way :)
   </p>
   
-  <h2>What will you need</h2>
+  <h2>What you will need</h2>
   ✅ internet connection &nbsp; ✅ laptop / desktop &nbsp; ✅ 30 minutes of time &nbsp; ✅ webcam &nbsp; ✅ mic
   
   <h2>Are you a hacker?</h2>
