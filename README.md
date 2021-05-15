@@ -6,7 +6,7 @@
   👉🏼 <a href="https://forms.gle/6q7WmFJxEsXz53FT9">Apply here</a> 👈🏼
   </h1>
   
-  <img align="right" width="45%" src="https://github.com/yuuchin/yuuchin/blob/main/img/Web%20Tester%20needed%20(no%20logo).jpg">
+  <img align="right" width="45%" src="https://github.com/yuuchin/yuuchin/blob/main/img/Web%20Tester%20needed%20v2.jpg">
   
   <h2>Case study research on e-portal usability to troubleshoot user-retention issue of <a href="https://pathforge.co/feed/">Pathforge</a></h2>
   <p align="justify">
