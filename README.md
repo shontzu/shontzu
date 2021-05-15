@@ -8,7 +8,7 @@
   
   <img align="right" width="45%" src="https://github.com/yuuchin/yuuchin/blob/main/img/Web%20Tester%20needed%20v2.jpg">
   
-  <h2>Case study research on e-portal usability to troubleshoot user-retention issue of <a href="https://pathforge.co/feed/">Pathforge</a></h2>
+  <h2>Case study research to troubleshoot usability and user-retention issue of <a href="https://pathforge.co/feed/">Pathforge</a></h2>
   <p align="justify">
   <a href="https://hackercollective.co/">The Hacker Collective (THC)</a> aims to disrupt overpriced education, to get all the self-learners together on a single platform so that everyone can collaborate on projects, meet like-minded people, network with other self-learners, with no geographical boundaries. This led to them to develop a social-educational portal called Pathforge. 
   </p>
