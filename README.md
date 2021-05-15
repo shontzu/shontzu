@@ -2,8 +2,8 @@
 ![github activity](https://github.com/yuuchin/yuuchin/blob/main/img/Capture.JPG)
 
 <span align="center">
-  <h1> Web Tester needed. Sign up to join the waitlist <br>
-  👉🏼 <a href="https://calendly.com/yuuchin/30min">Apply here</a> 👈🏼
+  <h1> Web Tester needed. Schedule your appointment <br>
+  👉🏼 <a href="https://calendly.com/yuuchin/30min">here</a> 👈🏼
   </h1>
   
   <img align="right" width="45%" src="https://github.com/yuuchin/yuuchin/blob/main/img/Web%20Tester%20needed%20v2.jpg">
