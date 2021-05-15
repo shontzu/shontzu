@@ -3,7 +3,7 @@
 
 <span align="center">
   <h1> Web Tester needed. Sign up to join the waitlist <br>
-  👉🏼 <a href="https://forms.gle/6q7WmFJxEsXz53FT9">Apply here</a> 👈🏼
+  👉🏼 <a href="https://calendly.com/yuuchin/30min">Apply here</a> 👈🏼
   </h1>
   
   <img align="right" width="45%" src="https://github.com/yuuchin/yuuchin/blob/main/img/Web%20Tester%20needed%20v2.jpg">
