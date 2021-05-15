@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=blue&label=TOTAL+VIEWS)
 ![github activity](https://github.com/yuuchin/yuuchin/blob/main/img/Capture.JPG)
 
 <span align="center">
