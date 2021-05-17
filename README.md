@@ -23,7 +23,7 @@
   <p align="justify">
   For this research, we will be using a moderated usability testing approach, assisted by an evaluation questionnaire to test the external usability of Pathforge portal.  
 The aim is to get 50 respondents to do a moderated usability testing through an online call on Google Meet with an interviewer. The respondents will be requested to “think aloud” while completing some tasks on Pathforge. Afterwards, they will need to fill out an evaluation questionnaire to rate their experience using the portal.
-The questionnaire is generated based on frameworks tested by past researches, such as the Web Assessment Index (WAI) presented by Vultur and Marincas [4], Website Quality Evaluation Method (QEM) presented by Olsina et al [6], and the famous Software Usability Measurement Index (SUMI) presented by Jurek Kirakowski. 
+The questionnaire is generated based on frameworks tested by past researches, such as the Web Assessment Index (WAI) presented by Vultur and Marincas, Website Quality Evaluation Method (QEM) presented by Olsina et al, and the famous Software Usability Measurement Index (SUMI) presented by Jurek Kirakowski. 
 The questions are categorized into eight usability attributes based on the Technology Acceptance Model (TAM) introduced by F. D. Davis (1986) to explain user’s acceptance of technology in education.
   </p>
   
