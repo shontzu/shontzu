@@ -3,7 +3,7 @@
 
 <span align="center">
   <h1> Web Tester needed. Schedule an appointment <br>
-  👉🏼 <a href="https://calendly.com/yuuchin/30min">here</a> 👈🏼
+  👉🏼 <a href="https://calendly.com/yuuchin/45min">here</a> 👈🏼
   </h1>
   
   <img align="right" width="45%" src="https://github.com/yuuchin/yuuchin/blob/main/img/Web%20Tester%20needed%20v2.jpg">
