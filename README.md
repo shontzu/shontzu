@@ -22,19 +22,19 @@
   </p>
   <p align="justify">
   For this research, we will be using a moderated usability testing approach, assisted by an evaluation questionnaire to test the external usability of Pathforge portal.  
-The aim is to get 50 respondents to do a moderated usability testing through an online call on Google Meet with an interviewer. The respondents will be requested to “think aloud” while completing some tasks on Pathforge. Afterwards, they will need to fill out an evaluation questionnaire to rate their experience using the portal.
+The aim is to get 50 respondents to do a moderated usability testing through an online call on Google Meet / Zoom with an interviewer. The respondents will be requested to “think aloud” while completing some tasks on Pathforge. Afterwards, they will need to fill out an evaluation questionnaire to rate their experience using the portal.
 The questionnaire is generated based on frameworks tested by past researches, such as the <a href="https://www.researchgate.net/publication/26473991_WEB_SITE_PROJECTS_EVALUATION_-_A_CASE_STUDY_OF_ROMANIAN_FACULTIES_OF_ECONOMICS_WEB_SITES" target="_blank">Web Assessment Index (WAI)</a> presented by Vultur and Marincas, <a href="https://www.researchgate.net/publication/238176321_Website_Quality_Evaluation_Method_a_Case_Study_on_Museums" target="_blank">Website Quality Evaluation Method (QEM)</a> presented by Olsina et al, and the famous <a href="https://sumi.uxp.ie/" target="_blank">Software Usability Measurement Index (SUMI)</a> presented by <a href = "https://uxp.ie/people/jzk/">Dr Jurek Kirakowski</a> 
 The questions are categorized into eight usability attributes based on the <a href ="https://www.researchgate.net/profile/Sonam-Mathur-3/publication/301824711_Demographic_Influences_on_Technology_Adoption_BehaviorA_Study_of_E-Banking_Services_in_India/links/5aec0c02458515f59981f28c/Demographic-Influences-on-Technology-Adoption-BehaviorA-Study-of-E-Banking-Services-in-India.pdf" target="_blank">Technology Acceptance Model (TAM)</a> introduced by F. D. Davis (1986) to explain user’s acceptance of technology in education.
   </p>
   
   <h2>What should you expect as a Website Tester</h2>
 <p align="justify">
-  you will need to get on a 30-minute online call where we will give you some task to perform on the portal. The tasks may be as such:<br>
+  you will need to get on a 40-minute online call where we will give you some task to perform on the portal. The tasks may be as such:<br>
     Create an account | Log in | Create a dummy content | Interact with contents | Navigate through the website | provide criticism | feedback | fill out an evaluation form | etc! It's pretty simple, and you will be guided along the way :)
   </p>
   
   <h2>What you will need</h2>
-  ✅ internet connection &nbsp; ✅ laptop / desktop &nbsp; ✅ 30 minutes of time &nbsp; ✅ webcam &nbsp; ✅ mic
+  ✅ internet connection &nbsp; ✅ laptop / desktop &nbsp; ✅ 40 minutes of time &nbsp; ✅ webcam &nbsp; ✅ mic
   
   <h2>Are you a hacker?</h2>
   <p align="justify">
