@@ -2,8 +2,7 @@
 
 <h3>Behind the Scenes <a href="https://www.youtube.com/watch?v=8tVXWTlIWvQ" target="_blank">(watch on YouTube)</a></h3>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=PmQ3WdW4gB8)
+https://user-images.githubusercontent.com/77496433/127616401-659ef686-b18f-47c9-ac64-0c3f0a059c76.mp4
 
-<h3>Full Video <a href="https://www.youtube.com/watch?v=8tVXWTlIWvQ" target="_blank">(watch on YouTube)</a></h3>
+<h3>Full Video on <a href="https://www.youtube.com/watch?v=8tVXWTlIWvQ" target="_blank">YouTube</a></h3>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=PmQ3WdW4gB8)
