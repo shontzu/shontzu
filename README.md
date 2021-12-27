@@ -1,10 +1,6 @@
-# ![Blue Flame (Custom)](https://user-images.githubusercontent.com/77496433/135817963-4de1aeff-6957-427f-92c6-00b02ad6b52b.png) Welcome to my alternate LinkedIn :) ![](https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=blue&label=visits:)
-
-## ![Blue Flame (Custom)](https://user-images.githubusercontent.com/77496433/135817963-4de1aeff-6957-427f-92c6-00b02ad6b52b.png) Bio 
-Self-learned Web Dev. Striving to become an exceptional front-end developer with a long-term vision to become a full-stack developer. Volunteered to develop and maintain websites for local businesses during the pandemic.
-> Boredom is the seed of laziness, I passionately live by the motto "one year from now, you will be glad you started today"
-
-## ![Blue Flame (Custom)](https://user-images.githubusercontent.com/77496433/135817963-4de1aeff-6957-427f-92c6-00b02ad6b52b.png) Skills
+<!-- # ![Blue Flame (Custom)](https://user-images.githubusercontent.com/77496433/135817963-4de1aeff-6957-427f-92c6-00b02ad6b52b.png) Welcome to my alternate LinkedIn :) ![](https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=blue&label=visits:)
+ -->
+## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Summary of what I do
 
 **Multimedia** | **Front End** | **Back End** | **Database** | **App** | **Relevant** | **Hosting**
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- |-------------
@@ -12,8 +8,12 @@ Self-learned Web Dev. Striving to become an exceptional front-end developer with
 
 ![loading](https://user-images.githubusercontent.com/77496433/147426075-c74baebb-ff94-4d57-80a4-4a428c9fd74c.png) = still learning up
 
+## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Motto I live by
+<!-- Striving to become an exceptional front-end developer with a long-term vision to become a full-stack developer. Volunteered to develop and maintain websites for local businesses during the pandemic. -->
 
-## ![Blue Flame (Custom)](https://user-images.githubusercontent.com/77496433/135817963-4de1aeff-6957-427f-92c6-00b02ad6b52b.png) Things I swear by:
+![quote](https://user-images.githubusercontent.com/77496433/147428332-19472997-2dfe-4377-a56b-815ac22b9412.png)
+
+## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) 3 values I swear by
 > Education
 >> Educate not hate
 
