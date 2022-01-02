@@ -1,7 +1,8 @@
-<!-- # ![Blue Flame (Custom)](https://user-images.githubusercontent.com/77496433/135817963-4de1aeff-6957-427f-92c6-00b02ad6b52b.png)  -->
-# ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Welcome to my alternate LinkedIn :) ![](https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=blue&label=visits:)
 ![quote](https://user-images.githubusercontent.com/77496433/147428332-19472997-2dfe-4377-a56b-815ac22b9412.png)
-<!-- Striving to become an exceptional front-end developer with a long-term vision to become a full-stack developer. Volunteered to develop and maintain websites for local businesses during the pandemic. -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuchin&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuchin&include_all_commits=ture&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuuchin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Summary of what I do
 
@@ -21,4 +22,4 @@
 > Empowerment
 >> Everything is one thing and everything is energy, be constructive or be gone
 
-
+![profile_visits](https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=red&label=visits:)
