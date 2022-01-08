@@ -1,9 +1,10 @@
 <div style="display:flex; align-items:center;">
-  <img src="https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=red&label=visits" align=left>
-  <img src="https://img.shields.io/twitter/follow/shontzu_?label=twitter&logo=twitter&color=red&style=plastic" align=left>
-  <img src="https://img.shields.io/github/followers/yuuchin?label=github&logo=github&color=red&style=plastic" align=left>
-
-  <img src="https://wakatime.com/badge/user/59a6ed31-da11-42f9-b270-6ab97f335d44.svg?style=plastic&color=red" align=right>
+  <a href="https://www.linkedin.com/in/shontzu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+  <img src="https://wakatime.com/badge/user/59a6ed31-da11-42f9-b270-6ab97f335d44.svg?style=plastic&color=red" align=left>
+  
+  <img src="https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=red&label=visits" align=right>
+  <img src="https://img.shields.io/twitter/follow/shontzu_?label=twitter&logo=twitter&color=red&style=plastic" align=right>
+  <img src="https://img.shields.io/github/followers/yuuchin?label=github&logo=github&color=red&style=plastic" align=right>
 </div>
 <hr />
 
@@ -12,8 +13,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yuuchin&include_all_commits=ture&show_icons=true&count_private=true&theme=dracula" width=47% align=left>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuuchin&show_icons=true&theme=dracula" width=47% align=right>
 </br></br></br></br></br></br></br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuchin&layout=compact&langs_count=5&theme=dracula" width=47% >
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuchin&layout=compact&langs_count=5&theme=dracula" width=47% >              
+              
 ## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Summary of what I do (![loading](https://user-images.githubusercontent.com/77496433/147426075-c74baebb-ff94-4d57-80a4-4a428c9fd74c.png) = I’m currently learning)
 
 **Multimedia** | **Front End** | **Back End** | **Database** | **App** | **Relevant** | **Hosting**
