@@ -1,11 +1,20 @@
+<div style="display:flex; align-items:center;">
+  <img src="https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=red&label=visits" align=left>
+  <img src="https://img.shields.io/twitter/follow/shontzu_?label=twitter&logo=twitter&color=red&style=plastic" align=left>
+  <img src="https://img.shields.io/github/followers/yuuchin?label=github&logo=github&color=red&style=plastic" align=left>
+
+  <img src="https://wakatime.com/badge/user/59a6ed31-da11-42f9-b270-6ab97f335d44.svg?style=plastic&color=red" align=right>
+</div>
+<hr />
+
 ![quote](https://user-images.githubusercontent.com/77496433/147428332-19472997-2dfe-4377-a56b-815ac22b9412.png)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuuchin&show_icons=true&theme=dracula" width=47% align=right>
 <img src="https://github-readme-stats.vercel.app/api?username=yuuchin&include_all_commits=ture&show_icons=true&count_private=true&theme=dracula" width=47% align=left>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuuchin&show_icons=true&theme=dracula" width=47% align=right>
 </br></br></br></br></br></br></br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuchin&layout=compact&langs_count=5&theme=dracula" width=47% >
 
-## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Summary of what I do (![loading](https://user-images.githubusercontent.com/77496433/147426075-c74baebb-ff94-4d57-80a4-4a428c9fd74c.png) = still learning up)
+## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Summary of what I do (![loading](https://user-images.githubusercontent.com/77496433/147426075-c74baebb-ff94-4d57-80a4-4a428c9fd74c.png) = I’m currently learning)
 
 **Multimedia** | **Front End** | **Back End** | **Database** | **App** | **Relevant** | **Hosting**
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- |-------------
@@ -30,6 +39,4 @@
 </a>
 
 </br></br></br></br></br></br></br></br>
-
-![profile_visits](https://komarev.com/ghpvc/?username=yuuchin&style=plastic&color=red&label=visits:)
 
