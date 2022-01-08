@@ -24,7 +24,7 @@
 
 ## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Featured repositories    
 <a href="https://github.com/yuuchin/GreatKidsShow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuchin&repo=great-kids-show&show_icons=true&theme=dracula" width="47%" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuchin&repo=GreatKidsShow&show_icons=true&theme=dracula" width="47%" align="left"/>
 </a>
 <a href="https://github.com/yuuchin/Pomodoro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuchin&repo=pomodoro&show_icons=true&theme=dracula"  width="47%" align="right"/>
