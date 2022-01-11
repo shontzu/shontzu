@@ -35,8 +35,8 @@
 <a href="https://github.com/yuuchin/Snakes-and-Ladders">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuchin&repo=snakes-and-ladders&show_icons=true&theme=dracula" width="47%" align="left"/>
 </a>
-<a href="https://github.com/yuuchin/Instagraham1.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuchin&repo=instagraham1.0&show_icons=true&theme=dracula" width="47%" align="right"/>
+<a href="https://github.com/yuuchin/yuuchins-todo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuchin&repo=yuuchins-todo&show_icons=true&theme=dracula" width="47%" align="right"/>
 </a>
 
 </br></br></br></br></br></br></br></br>
