@@ -10,7 +10,7 @@
 
 ![quote](https://user-images.githubusercontent.com/77496433/147428332-19472997-2dfe-4377-a56b-815ac22b9412.png)
 
-<img src="https://github-readme-stats-pink-rho-44.vercel.app/api?username=yuuchin&include_all_commits=ture&show_icons=true&count_private=true&theme=dracula" width=47% align=left>
+<img src="https://github-readme-stats.vercel.app/api?username=yuuchin&include_all_commits=ture&show_icons=true&count_private=true&theme=dracula" width=47% align=left>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuuchin&show_icons=true&theme=dracula" align=right width=47% >
 </br></br></br></br></br></br></br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuchin&layout=compact&langs_count=6&theme=dracula" width=47% >              
