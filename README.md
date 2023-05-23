@@ -10,11 +10,11 @@
 
 ![quote](https://user-images.githubusercontent.com/77496433/147428332-19472997-2dfe-4377-a56b-815ac22b9412.png)
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuuchin&include_all_commits=ture&show_icons=true&count_private=true&theme=dracula" width=47% align=left>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuuchin&show_icons=true&theme=dracula" align=right width=47% >
-</br></br></br></br></br></br></br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuchin&layout=compact&langs_count=6&theme=dracula" width=47% >              
-              
+<img src="https://github-readme-stats.vercel.app/api?username=yuuchin&include_all_commits=ture&show_icons=true&count_private=true&theme=dracula" align=left>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuuchin&show_icons=true&theme=dracula" align=right width=47% >
+</br></br></br></br></br></br></br></br> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuchin&layout=compact&langs_count=6&theme=dracula" width=47%  >              
+
 ## ![bullet](https://user-images.githubusercontent.com/77496433/147429169-2b6c6477-1d6c-4bb2-9f3f-f7107e947cd2.png) Summary of what I do (![loading](https://user-images.githubusercontent.com/77496433/147426075-c74baebb-ff94-4d57-80a4-4a428c9fd74c.png) = currently exploring)
 
 **Multimedia** | **Front End** | **Back End** | **Database** | **App** | **Relevant** | **Hosting/CMS**
